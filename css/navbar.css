@@ -1,0 +1,7 @@
+.cssnav{
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+.footer{
+	background-color: white;
+}
